@@ -1,0 +1,10 @@
+﻿  Leetcode283_MoveZeros.cpp
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros\leetcode283_movezeros.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode283_MoveZeros.vcxproj -> D:\Code_Project\C++_Test\GitHub_Project\Leetcode283_MoveZeros\Leetcode283_MoveZeros\Debug\Leetcode283_MoveZeros.exe
